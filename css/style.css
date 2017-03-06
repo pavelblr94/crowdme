@@ -1,0 +1,351 @@
+main{
+	max-width: 1300px;
+	margin: 0 auto;
+}
+.center-block-main{
+	max-width: 1020px;
+	margin: 0 auto;
+}
+li{
+	list-style-type: none;
+}
+	header{
+		margin: 20px 0px;
+	}
+
+			.logo{
+				float: left;
+			}
+			.menu{
+				margin-top: 7px;
+				float: right;
+				font-size: 13.2px;
+				text-transform: uppercase;
+				padding-top: 15px;
+			}
+				.menu li{
+					float:left;
+					padding-right: 30px;
+				}
+					a.button{
+						color: #fff;
+						padding: 12px 30px;
+						border: 1px solid #bcda5c;
+						border-radius: 30px;
+						background: #bcda5c;
+						margin-left: 20px;
+					}
+					a.button:hover{
+						color: #959595;
+						background: #fff;
+					}
+	.my-slider {
+		width: 100%;
+	}
+		.my-slider ul li{
+			color: #fff;
+			position: relative;
+		}
+			.my-slider ul li h1{
+				position: absolute;
+				top: 70px;
+				left: 30px;
+				font-size: 49.2px;
+				font-family: sans-serif;					
+			}
+			.my-slider ul li p{
+				position: absolute;
+				top:230px;
+				left: 30px;
+				font-size: 35.2px;
+				font-family: sans-serif;
+			}
+		.my-slider ul li a.slider-btn{
+			position: absolute;
+			top: 310px;
+			left: 30px;
+			color: #fff;
+			font-size: 19.2px;
+			border: 1px solid #99c50a;
+			background: #99c50a;
+			padding: 25px 40px;
+			border-radius: 40px;
+
+		}	
+			.my-slider ul li a.slider-btn:hover{
+				background: none;
+				border:2px solid #fff;
+			}
+	    .unslider-nav{
+	    	position: relative;
+	    	top:-50px;
+	    	padding-left: 50px;
+	    }    	
+.block3 img{
+	display: block;
+	margin: 65px auto 50px auto;
+}
+	.block3 h1{
+		font-size: 31.2px;
+		text-align: center;
+		color: #515151;
+		margin-bottom: 65px;
+		font-family: sans-serif;
+	}
+	.block3 p{
+		text-align: center;
+		font-size: 19.2px;
+		margin-bottom: 50px;
+	}
+.block4{
+
+		margin-bottom: 50px;
+}
+ul.charact li {
+	float: left;
+	display: block;
+	border-bottom: 1px solid #959595;
+	padding-bottom: 50px;
+	margin-bottom: 50px;
+}
+
+
+	.info{
+		float: right;
+		font-size: 33.2px;
+		font-weight: 300;
+		padding-left: 20px;
+
+	}
+	.circle{ 
+			float: left;
+			 color: #fff;
+			 display: inline-block;
+			 width:40px;
+			 padding: 10px 0px;
+			 vertical-align: center;
+			 text-align: center;
+			 border-radius:20px;
+			 background: #b2d443;
+			}
+			.mid{
+				margin: 0px 150px;
+			}
+
+.glasses{
+			float: left;
+			margin-left: 100px;
+			margin-top: 20px;
+		}		
+.side{
+			float: right;
+		}
+				.side h1{
+					font-size: 25.2px;
+					color: #b2d443;
+					margin-bottom: 30px;
+				}
+				.side p{
+					font-size: 17.2px;
+				}
+.block6{
+	margin-top: 100px;
+	margin-bottom: 80px;
+}	
+	.left{
+		width: 50%;
+		height: 305px;
+		float: left;
+		background: #e2f8ff;
+	}
+	  .left img{
+	  	margin-top: 90px;
+	  	margin-left: 100px;
+	  	display: block;
+		float: left;
+	  }
+			.rgh{
+				display: block;
+				float: right;
+				margin-right: 30px;
+			}
+			 	.rgh h1{
+			 		color: #5b5c5d;
+			 		font-size: 23.2px;
+			 		margin-top: 50px;
+			 		font-weight: bold;
+			 	}
+				.rgh p{
+					color: #5b5c5d;
+					font-size: 17.2px;
+					margin-top: 30px;
+					margin-bottom: 40px;
+				}
+				 a.rgh-btn{
+					color: #fff;
+					font-size: 15px;
+					border: 1px solid #26a6d1;
+					background: #26a6d1;
+					padding: 14px 25px;
+					border-radius: 10px;
+				 }
+	.right{
+		width: 50%;
+		height: 305px;
+		float: right;
+		background: #f5f9eb;
+	}
+	  .right img{
+	  	margin-top: 90px;
+	  	margin-left: 100px;
+	  	display: block;
+		float: left;
+	  }
+	  	a.rgh-btn-r{
+	  				color: #fff;
+					font-size: 15px;
+					border: 1px solid #add136;
+					background: #add136;
+					padding: 14px 25px;
+					border-radius: 10px;
+	  	}
+.block7{
+	margin-bottom: 70px;
+}
+	.info{
+		float: left;
+	}
+			.info h2{
+				font-size: 29.2px;
+				color: #515151;
+				margin-bottom: 25px;
+				font-weight: bold;
+			}
+			.info p{
+				font-size: 17.2px;
+			}
+		a.info-btn{
+			display: block;
+			float: right;
+			color: #5b5c5d;
+			font-size: 15px;
+			border: 2px solid #5b5c5d;
+			padding: 14px 25px;
+			border-radius: 10px;
+			margin-top: 35px;
+			margin-left: 20px;
+		}	
+				a.info-btn:hover{
+					color: #add136;
+					border: 2px solid #add136;
+				}
+.block8	{
+	margin-bottom: 20px;
+
+}			
+		.block8 article	{
+			width: 29%;
+			margin-left: 6.5%;
+			float: left;
+			}	
+				.block8 article:first-child{
+					margin-left: 0;
+				}	
+
+		.block8 article img{
+			display: block;
+			margin: 20px auto;
+		}		
+		.block8-content{
+			padding: 0px 20px;
+			border-bottom: 1px solid #959595;
+			margin-bottom: 20px;
+		}
+		.block8-content h2{
+			font-size: 17.2px;
+			font-weight: bold;
+			color: #515151;
+			margin-bottom: 10px;
+		}
+		.block8-content p{
+			font-size: 13.2px;
+			margin-bottom: 20px;
+			line-height: 1.5;
+			color: #515151;
+		}
+		.see{
+			font-size: 15.2px;
+			color: #515151;
+		}
+		.triangle{
+				display: block;
+				width: 0;
+				height: 0;
+				margin-left: 15px;
+				border-top: 10px solid transparent;
+				border-left: 20px solid #add136;
+				border-bottom: 10px solid transparent;
+			}
+				.block8 article ul li{
+					float: right;
+				}
+.block9{
+	max-width: 1300px;
+	height: 612px;
+	margin-bottom: 100px;
+	background: url(../image/back.jpg);
+}				
+			.block9>h2{
+				padding-top: 60px;
+				font-size: 39.2px;
+				color: #add136;
+				text-align: center;
+
+			}
+			.block9>p{
+				font-size: 19.2px;
+				text-align: center;
+				margin-top: 30px;
+			}
+		.recall{
+			margin-top: 120px;	
+		}
+		   .recall li{
+		   	 float: left;
+		   	 margin-left: 7.3%;
+		   	 max-width: 39%;
+		   }	
+			.rec{
+				width: 399px;
+				height: 166px;
+				background: url(../image/textarea.png);
+			}
+				.rec h3{
+					font-size: 21.2px;
+					color: #9ec02d;
+					text-align: center;
+					padding-top: 20px;
+				}
+				.rec p{
+					font-size: 13.2px;
+					text-align: center;
+					margin-top: 20px;
+				}
+				.david{
+					margin-left: 30px;
+					margin-top: 20px;
+				}
+					.david li{
+						float: left;
+						
+					}
+						.david li.name{
+							font-size: 15.2px;
+							color: #515151;
+							font-weight: bold;
+							margin-top: 20px;
+							padding-left: 30px;
+						}
+footer{
+	padding-bottom: 40px;
+}
